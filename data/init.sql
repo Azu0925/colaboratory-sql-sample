@@ -1,7 +1,7 @@
 CREATE DATABASE sample_db;
 CREATE TABLE sample_db.sample_table (
   id int NOT NULL,
-  name varchar(10) NOT NULL,
+  name varchar(10) NOT NULL
 );
 
 INSERT INTO
